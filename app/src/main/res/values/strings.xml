@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">FaceMatch</string>
+    <string name="log_in_screen">Log In Screen</string>
+    <string name="texted">Texted</string>
+    <string name="signed_in">Signed in</string>
+    <string name="title_activity_face_match">FaceMatch</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="search">Search</string>
+    <string name="intent">Intent</string>
+    <string name="register_with_email">Register with Email</string>
+    <string name="your_email">Your email...</string>
+    <string name="your_password">Your Password</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="your_surname">Your surname..</string>
+    <string name="your_name">Your name...</string>
+    <string name="or">OR</string>
+    <string name="log_in">Log In</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up" />
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+    <string name="pref_header_general">General</string>
+
+
+    <string name="pref_title_display_name">Display name</string>
+    <string name="pref_default_display_name">Name</string>
+    <string name="pref_default_status">I am aviable…</string>
+
+
+    <string-array name="pref_example_list_values">
+        <item>1</item>
+        <item>0</item>
+        <item>-1</item>
+    </string-array>
+
+
+    <string-array name="list_preference_entries">
+        <item>Entry 1</item>
+        <item>Entry 2</item>
+        <item>Entry 3</item>
+    </string-array>
+
+    <string-array name="list_preference_entry_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="multi_select_list_preference_default_value" />
+
+    <string name="pref_title_system_sync_settings">System sync settings</string>
+
+    <!-- Example settings for Notifications -->
+    <string name="pref_header_notifications">Notifications</string>
+
+    <string name="pref_title_new_message_notifications">New message notifications</string>
+
+    <string name="pref_title_ringtone">Ringtone</string>
+    <string name="pref_ringtone_silent">Silent</string>
+
+    <string name="pref_title_vibrate">Vibrate</string>
+    <string name="i_am_aviable">Status</string>
+    <string name="about">About</string>
+    <string name="note_that_we_are_ignoring_characters_such_as_on_input_fileds">Note that we are ignoring characters such as $, ., [, ], /, on input fileds.</string>
+    <string name="type_a_message">Type a message...</string>
+    <string name="accept">Accept</string>
+    <string name="decline">Decline</string>
+    <string name="profile">Profile</string>
+    <string name="profile_picture">Profile Picture</string>
+    <string name="status_here">Status Here</string>
+</resources>
