@@ -10,3 +10,4 @@
 /app/google-services.json
 *.apk
 *.iml
+/keys/*
